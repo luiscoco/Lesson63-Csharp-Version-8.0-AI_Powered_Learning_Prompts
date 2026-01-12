@@ -5,7 +5,7 @@ Role framing: Your AI assistant acts as a Language–Runtime Integrator and Corr
 The goal is not memorization, but reshaping how you think about correctness, APIs, and evolution.
 ________________________________________
 
-## Section 1 — Historical & Strategic Understanding
+## Section 1 - Historical & Strategic Understanding
 
 ### Practice Prompt 1: The .NET Core Turning Point
 
@@ -45,7 +45,7 @@ Outcome:
 You should see correctness as a first-class language concern, not a best practice.
 ________________________________________
 
-## Section 2 — Nullable Reference Types (Mental Models)
+## Section 2 - Nullable Reference Types (Mental Models)
 
 ### Practice Prompt 3: The Null Problem Reframed
 
@@ -104,7 +104,7 @@ Outcome:
 You should grasp language–library cooperation as essential to correctness.
 ________________________________________
 
-## Section 3 — API Evolution & Runtime Changes
+## Section 3 - API Evolution & Runtime Changes
 
 ### Practice Prompt 6: The Interface Versioning Trap
 
@@ -163,7 +163,7 @@ Outcome:
 You should see interfaces as evolvable contracts, not brittle definitions.
 ________________________________________
 
-## Section 4 — Control Flow Becomes Declarative
+## Section 4 - Control Flow Becomes Declarative
 
 ### Practice Prompt 9: Pattern Matching as a Model
 
@@ -203,7 +203,7 @@ Outcome:
 You should feel how declarative control flow improves reasoning.
 ________________________________________
 
-## Section 5 — Async Becomes Compositional
+## Section 5 - Async Becomes Compositional
 
 ### Practice Prompt 11: Async Before C# 8.0
 
@@ -243,7 +243,7 @@ Outcome:
 You should understand async streams as enabling scalable, compositional pipelines.
 ________________________________________
 
-## Section 6 — Safer Data Access & Smaller Features
+## Section 6 - Safer Data Access & Smaller Features
 
 ### Practice Prompt 13: Indices and Ranges
 
@@ -283,7 +283,7 @@ Outcome:
 You should see C# 8.0 as a cohesive correctness release, not a grab-bag of features.
 ________________________________________
 
-## Section 7 — Evaluation & Synthesis
+## Section 7 - Evaluation & Synthesis
 
 ### Practice Prompt 15: Applying the Evolution Framework
 
